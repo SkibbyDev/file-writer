@@ -1,4 +1,5 @@
 To run "file-write.sh" please open up your terminal and write ANYTHING_YOU_WANNA_NAME_YOUR_FILE.txt
 now head back over to the "file-write.sh"
 and head over to line 5 and read the text in the green. then once you did that. open up your terminal and write "./file-write.sh"
-once you saw the text in the terminal it means that the message is succesfully to your .txt file. last step: open your .txt file if it worked, if not please open up a issue on this project Thanks. !
+once you saw the text in the terminal it means that the message is succesfully to your .txt file. last step: open your .txt file if it worked, if not 
+please open up a issue on this project Thanks. !
